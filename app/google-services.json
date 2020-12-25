@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789530660005",
+    "project_id": "my-memory-76cfb",
+    "storage_bucket": "my-memory-76cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789530660005:android:f1f5a0c37afe2d8aaf914c",
+        "android_client_info": {
+          "package_name": "com.trokas.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789530660005-kd0au1mtm3qu8tqmtva07dmf6lqvi64r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbmCVX2QyjmgZ0wHx3Aj1ySZ6jw_6KVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789530660005-kd0au1mtm3qu8tqmtva07dmf6lqvi64r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
